@@ -40,7 +40,7 @@ Array
 
 Via [composer](http://getComposer.org)
 
-`compser require nackjicholson/file-parser=~2.1`
+`composer require nackjicholson/file-parser=~2.1`
 
 or add too composer.json
 ```json
